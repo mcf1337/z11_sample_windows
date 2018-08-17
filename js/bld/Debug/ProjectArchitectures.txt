@@ -1,0 +1,1 @@
+C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\UserSelection.jsproj;neutral

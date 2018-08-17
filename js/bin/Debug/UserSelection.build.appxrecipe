@@ -1,0 +1,147 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-IRQHVAG</Machine>
+    <WindowsUser>Michał Florkowski</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>f5893065-84c9-407e-ac84-28b0691e8a46</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\bld\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath></WindowsSdkPath>
+    <LayoutDir>C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\bin\Debug\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\css\scenario1.css">
+      <PackagePath>css\scenario1.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\css\scenario2.css">
+      <PackagePath>css\scenario2.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\css\scenario3.css">
+      <PackagePath>css\scenario3.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\css\scenario4.css">
+      <PackagePath>css\scenario4.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\SharedContent\js\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\css\ui-dark.css">
+      <PackagePath>Microsoft.WinJS.4.0\css\ui-dark.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\css\ui-light.css">
+      <PackagePath>Microsoft.WinJS.4.0\css\ui-light.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\SharedContent\js\sample-utils\scenario-select.css">
+      <PackagePath>sample-utils\scenario-select.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\SharedContent\js\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\html\scenario1.html">
+      <PackagePath>html\scenario1.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\html\scenario2.html">
+      <PackagePath>html\scenario2.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\html\scenario3.html">
+      <PackagePath>html\scenario3.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\html\scenario4.html">
+      <PackagePath>html\scenario4.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\SharedContent\js\sample-utils\footer.html">
+      <PackagePath>sample-utils\footer.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\SharedContent\js\sample-utils\header.html">
+      <PackagePath>sample-utils\header.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\SharedContent\js\sample-utils\scenario-select.html">
+      <PackagePath>sample-utils\scenario-select.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\SharedContent\media\microsoft-sdk.png">
+      <PackagePath>images\microsoft-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\SharedContent\media\smalltile-sdk.png">
+      <PackagePath>images\smallTile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\SharedContent\media\splash-sdk.png">
+      <PackagePath>images\splash-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\SharedContent\media\storelogo-sdk.png">
+      <PackagePath>images\storeLogo-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\SharedContent\media\squaretile-sdk.png">
+      <PackagePath>images\squaretile-sdk.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\SharedContent\media\tile-sdk.png">
+      <PackagePath>images\tile-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\SharedContent\media\windows-sdk.png">
+      <PackagePath>images\windows-sdk.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\SharedContent\js\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\js\sample-configuration.js">
+      <PackagePath>js\sample-configuration.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\js\scenario1.js">
+      <PackagePath>js\scenario1.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\js\scenario2.js">
+      <PackagePath>js\scenario2.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\js\scenario3.js">
+      <PackagePath>js\scenario3.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\js\scenario4.js">
+      <PackagePath>js\scenario4.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\js\en-US\ui.strings.js">
+      <PackagePath>Microsoft.WinJS.4.0\js\en-US\ui.strings.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\js\WinJS.intellisense-setup.js">
+      <PackagePath>Microsoft.WinJS.4.0\js\WinJS.intellisense-setup.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\js\WinJS.intellisense.js">
+      <PackagePath>Microsoft.WinJS.4.0\js\WinJS.intellisense.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\js\base.js">
+      <PackagePath>Microsoft.WinJS.4.0\js\base.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\js\ui.js">
+      <PackagePath>Microsoft.WinJS.4.0\js\ui.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\SharedContent\js\sample-utils\sample-utils.js">
+      <PackagePath>sample-utils\sample-utils.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\SharedContent\js\Microsoft.WinJS\fonts\Symbols.ttf">
+      <PackagePath>Microsoft.WinJS.4.0\fonts\Symbols.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

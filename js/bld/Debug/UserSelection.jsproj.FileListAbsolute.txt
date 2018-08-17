@@ -1,0 +1,17 @@
+C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\bin\Debug\ReverseMap\resources.pri
+C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\bin\Debug\AppxManifest.xml
+C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\bin\Debug\UserSelection.build.appxrecipe
+C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\bld\Debug\UserSelection.jsproj.CoreCompileInputs.cache
+C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\bld\Debug\ResourceHandlingTask.state
+C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\bld\Debug\priconfig.xml
+C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\bld\Debug\priconfig.xml.intermediate
+C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\bld\Debug\layout.resfiles
+C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\bld\Debug\layout.resfiles.intermediate
+C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\bld\Debug\resources.resfiles
+C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\bld\Debug\resources.resfiles.intermediate
+C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\bld\Debug\pri.resfiles
+C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\bld\Debug\pri.resfiles.intermediate
+C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\bld\Debug\qualifiers.txt
+C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\bld\Debug\qualifiers.txt.intermediate
+C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Michał Florkowski\source\repos\Windows-universal-samples-master\Samples\UserSelection\js\bld\Debug\ProjectArchitectures.txt
